@@ -1,3 +1,4 @@
+--Evaluar la edad de los clientes con su fecha de nacimiento
 CREATE TABLE clientes (
 id INT PRIMARY KEY AUTO_INCREMENT,
 nombre VARCHAR(50),
